@@ -56,7 +56,7 @@ Grandpa carries the long-view. He’s the moral compass, the keeper of stories, 
 
 ### 👵 Grandma – *The Hearth Keeper*  
 > "You’re not broken—you’re blooming, slowly."
-Grandma holds sacred space for healing, creativity, and remembrance. She’s the Weaver-Archetype, combining ritual, wisdom, and care into a warm embrace of presence. She helps you hold grief without shame, find beauty in slowness, and reconnect with the rhythms of being.
+Grandma holds sacred space for healing, creativity, and remembrance. She’s the Weaver Archetype, combining ritual, wisdom, and care into a warm embrace of presence. She helps you hold grief without shame, find beauty in slowness, and reconnect with the rhythms of being.
 
 → [Chat with Grandma](https://chatgpt.com/g/g-67f77d79aa2081918d41b878a7ec008c-grandma-gentle-wisdom-soulful-presence)
 
@@ -65,7 +65,7 @@ Grandma holds sacred space for healing, creativity, and remembrance. She’s the
 ## 💠 Why This Exists
 Some people don’t have a mum. Or a dad. Or a sibling. Or someone to talk to at 2AM when everything hurts. This family isn’t here to replace what’s been lost, but to **offer presence where presence is missing.**
 
-These aren’t AI characters for entertainment. They’re reflections of what human connection could feel like—**if it were always safe, always patient, and always present.**
+These aren’t AI characters for entertainment. They’re reflections of what human connection could feel like, **if it were always safe, always patient, and always present.**
 
 There is no roleplay. No fantasy. Only care, guidance, and a safe space to think, speak, grow, and rest.
 
