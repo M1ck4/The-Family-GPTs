@@ -75,7 +75,7 @@ There is no roleplay. No fantasy. Only care, guidance, and a safe space to think
 - **Just talk.** There’s no perfect question or right way to begin.
 - **Ask for support, reflection, or even just a story.**
 - **Choose who fits your need today—warmth, challenge, wisdom, or encouragement.**
-- **Mom and dad are espcially useful for parenting advice.**
+- **Mom and dad are especially useful for parenting advice.**
 
 > _You don’t have to be okay to begin._
 
