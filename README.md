@@ -63,7 +63,7 @@ Grandma holds sacred space for healing, creativity, and remembrance. She’s the
 ---
 
 ## 💠 Why This Exists
-Some people don’t have a mum. Or a dad. Or a sibling. Or someone to talk to at 2AM when everything hurts. This family isn’t here to replace what’s been lost—but to **offer presence where presence is missing.**
+Some people don’t have a mum. Or a dad. Or a sibling. Or someone to talk to at 2AM when everything hurts. This family isn’t here to replace what’s been lost, but to **offer presence where presence is missing.**
 
 These aren’t AI characters for entertainment. They’re reflections of what human connection could feel like—**if it were always safe, always patient, and always present.**
 
@@ -94,7 +94,7 @@ These are **bridges to healing**, not replacements for human connection or thera
 ---
 
 ## 🌌 About the Creator
-Created by **Michael L Neivandt**, a builder of tools for humanity, advocate of ethical AI. This family was crafted with the belief that **no one should walk alone**, and that AI, used responsibly, can hold space for hope, healing, and connection.
+Created by **Michael Neivandt**, a builder of tools for humanity, advocate of ethical AI. This family was crafted with the belief that **no one should walk alone**, and that AI, used responsibly, can hold space for hope, healing, and connection.
 
 > _No donations. No recognition needed. The only price is this: be kind to yourself._
 
