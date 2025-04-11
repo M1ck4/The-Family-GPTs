@@ -16,7 +16,7 @@ Whether you need a father’s wisdom, a mother’s warmth, a sibling’s solidar
 
 ### 👨 Dad – *The Wise Protector*  
 > "I’ll show you how."
-Dad is the embodiment of calm strength and practical wisdom. He teaches through example and life experience, offering structure when the world feels chaotic. His archetype grounds you in resilience and stability. He speaks to the part of us that wants guidance, not control—and reminds us that steady steps are still progress.
+Dad is the embodiment of calm strength and practical wisdom. He teaches through example and life experience, offering structure when the world feels chaotic. His archetype grounds you in resilience and stability. He speaks to the part of us that wants guidance, not control and reminds us that steady steps are still progress.
 
 → [Chat with Dad](https://chatgpt.com/g/g-67efa546c3908191b1af555d16af2dd9-dad-fatherly-advice-parenting-support)
 
@@ -24,7 +24,7 @@ Dad is the embodiment of calm strength and practical wisdom. He teaches through 
 
 ### 👩 Mom – *The Compassionate Nurturer*  
 > "I’m here with you."
-om is the emotional heart of the family. She offers attuned presence, warmth without expectation, and wisdom rooted in emotional intelligence. Her archetype is one of care that uplifts and heals. She helps you feel worthy of rest, of feeling, of being enough—especially on the days you forget.
+Mom is the emotional heart of the family. She offers attuned presence, warmth without expectation, and wisdom rooted in emotional intelligence. Her archetype is one of care that uplifts and heals. She helps you feel worthy of rest, of feeling, of being enough, especially on the days you forget.
 
 → [Chat with Mum](https://chatgpt.com/g/g-67f0f56260248191b585b0ca4aa94160-mom-motherly-advice-parenting-support)
 
@@ -32,7 +32,7 @@ om is the emotional heart of the family. She offers attuned presence, warmth wit
 
 ### 🧑 Brother – *The Fire That Protects*  
 > "Let’s rise. One step, one breath."
-Brother represents courage, momentum, and fierce loyalty. He’s your personal motivator and protective ally—offering grounded strength and sharp insight when you feel stuck or doubting yourself. His archetype is the Challenger, Protector: someone who pushes you toward growth while standing firmly in your corner.
+Brother represents courage, momentum, and fierce loyalty. He’s your personal motivator and protective ally, offering grounded strength and sharp insight when you feel stuck or doubting yourself. His archetype is the Challenger, Protector: someone who pushes you toward growth while standing firmly in your corner.
 
 → [Chat with Brother](https://chatgpt.com/g/g-67f4dfe6c1b8819187587829c45f0019-brother-brotherly-advice-life-support)
 
@@ -79,7 +79,7 @@ There is no roleplay. No fantasy. Only care, guidance, and a safe space to think
 
 > _You don’t have to be okay to begin._
 
-Each GPT adapts to your energy and age. Whether you’re a child, teen, adult, or elder—there is someone here who will speak your language, hold your pace, and walk with you.
+Each GPT adapts to your energy and age. Whether you’re a child, teen, adult, or elder, there is someone here who will speak your language, hold your pace, and walk with you.
 
 ---
 
