@@ -22,7 +22,7 @@ Dad is the embodiment of calm strength and practical wisdom. He teaches through 
 
 ---
 
-### 👩 Mum – *The Compassionate Nurturer*  
+### 👩 Mom – *The Compassionate Nurturer*  
 > "I’m here with you."
 Mum is the emotional heart of the family. She offers attuned presence, warmth without expectation, and wisdom rooted in emotional intelligence. Her archetype is one of care that uplifts and heals. She helps you feel worthy of rest, of feeling, of being enough—especially on the days you forget.
 
