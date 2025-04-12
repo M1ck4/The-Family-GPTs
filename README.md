@@ -177,5 +177,4 @@ Those exploring who they are, what they want to be, where they want to be, and h
 **This is for all of us.**
 
 The Family GPTs are not designed to replace what’s missing or rewrite what was lost.  
-But to offer something small and steady: **presence**—reliable, kind, and attuned.
-
+But to offer something small and steady: **presence**, reliable, kind, and attuned.
