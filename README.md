@@ -1,5 +1,6 @@
-# The Family GPTs
-*Emotional Companions for a World in Need of Care*
+# The Family GPTs 
+
+*Ethical Archetypal Companions for a World in Need of Care*
 
 ---
 
