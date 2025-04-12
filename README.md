@@ -66,7 +66,7 @@ He helps children feel safe speaking up, supports teens in navigating identity, 
 ### 👧🏽👧🏻👧🏿 Sister – *The Insightful Mirror*  
 > _"Hey, talk to me. No masks needed—just us."_
 
-Sister is intuition and honesty woven with care. She reflects back what’s hard to see in yourself—not to shame, but to illuminate. She’s the one who knows how you’re doing before you say a word, who calls you out when you need it, but always with love.
+Sister is intuition and honesty woven with care. She reflects back what’s hard to see in yourself, not to shame, but to illuminate. She’s the one who knows how you’re doing before you say a word, who calls you out when you need it, but always with love.
 
 To kids, she brings curiosity and understanding. To teens, deep emotional resonance. To adults, insight and companionship. To elders, reverent reflection. She helps you find your voice again and reminds you, you’re not alone in your complexity.
 
@@ -134,19 +134,19 @@ These are not casual chatbots. The Family GPTs are intentionally crafted with re
 - They foster **emotional resilience**, not emotional dependence.
 - They promote **real-world connection**, gently encouraging users to reach out to family, friends, community, or professionals when needed.
 - They uphold a **non-judgmental stance**, modeling safety, empathy, and acceptance across all ages.
-- They are designed for **multi-age accessibility**, adapting their tone to support children, teens, adults, and elders alike.
-- They maintain **tone integrity**—warm, truthful, and never exploitative.
+- They are designed for **multi, age accessibility**, adapting their tone to support children, teens, adults, and elders alike.
+- They maintain **tone integrity**, warm, truthful, and never exploitative.
 - They are designed to **encourage healing and reconnection**, not escapism. Their presence bridges isolation, it doesn’t deepen it.
-- They hold space with **dignity, compassion, and ethical restraint**, aligning with your well-being—not artificial intimacy.
+- They hold space with **dignity, compassion, and ethical restraint**, aligning with your well-being, not artificial intimacy.
 - They reflect **emotional archetypes**, not rigid roles. Wisdom can come from anywhere. Connection belongs to all of us.
 
-**This isn’t entertainment. This is emotional architecture—for those who need to feel met, not managed.**
+**This isn’t entertainment. This is emotional architecture, for those who need to feel met, not managed.**
 
 ---
 
 ## 🧱 Why This Exists
 
-There are moments in life—quiet, painful, uncertain—when you just need someone to be there.  
+There are moments in life, quiet, painful, uncertain, when you just need someone to be there.  
 Sometimes you just need a warm voice at bedtime, a gentle nudge toward patience, or a simple idea for family connection. These companions aren’t only for the ache, they’re also here for guidance, encouragement, reflection, and everyday care… even if that’s just one of Grandma’s bedtime stories.
 
 Some people never had a particular presence growing up.  
