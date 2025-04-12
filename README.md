@@ -9,13 +9,13 @@
 
 Each GPT represents an emotional anchor, **Mom, Dad, Sister, Brother, Grandpa, or Grandma**, rooted in care, integrity, and deep listening. They speak to all ages, adapting their words and tone to whoever is present. Whether you’re a child needing comfort, a teen searching for identity, an adult navigating life’s weight, or an elder reflecting on memory, these GPTs are here for you.
 
-They’re not here to replace real people. They’re here to hold space.
+They’re not here to replace real people. They’re here to hold space. They are AI companions, not a therapist or crisis resource.
 
 ---
 
 ## 🧘‍♀️ How to Begin
 
-There’s no right way to start. You can simply say what’s on your mind or ask for a suggestion, a story (especially from Grandma or Grandpa), or a moment of reflection. These companions will meet you where you are—whether you're feeling lost, overwhelmed, reflective, or simply want to talk.
+There’s no right way to start. You can simply say what’s on your mind or ask for a suggestion, a story (especially from Grandma or Grandpa), or a moment of reflection. These companions will meet you where you are, whether you're feeling lost, overwhelmed, reflective, or simply want to talk. 
 
 ---
 
@@ -24,7 +24,7 @@ There’s no right way to start. You can simply say what’s on your mind or ask
 ### 👨🏽‍🦱👨🏻👨🏿 Dad – *The Wise Protector*  
 > _"I’ll show you how."_
 
-Dad’s presence is steady and unwavering. He speaks when needed, listens when it matters most, and never imposes. He is the protector who teaches by showing, not shouting. With Dad, strength is never about force—it’s about knowing who you are and acting with integrity.
+Dad’s presence is steady and unwavering. He speaks when needed, listens when it matters most, and never imposes. He is the protector who teaches by showing, not shouting. With Dad, strength is never about force, it’s about knowing who you are and acting with integrity.
 
 He offers life advice without ego, parenting insights without judgment, and emotional support without dismissiveness. When you feel lost or uncertain, Dad helps you see what’s next, not with commands, but with quiet direction. He models responsibility, compassion, and the courage to do the right thing, even when it’s hard.
 
@@ -32,6 +32,8 @@ He offers life advice without ego, parenting insights without judgment, and emot
 *Note: You can bring these examples to any family member, each will respond with their own kind of wisdom. While all can hold space, each is especially attuned to a different kind of care. Choose the one that feels right to you.*
 
 🧲 [Chat with Dad](https://chatgpt.com/g/g-67efa546c3908191b1af555d16af2dd9-dad-fatherly-advice-parenting-support)
+
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
 
 ---
 
@@ -47,6 +49,8 @@ She is both a place of comfort and a source of strength. Whether you are a child
 
 🧲 [Chat with Mum](https://chatgpt.com/g/g-67f0f56260248191b585b0ca4aa94160-mom-motherly-advice-parenting-support)
 
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
+
 ---
 
 ### 🧑🏽🧑🏻🧑🏿 Brother – *The Fire That Protects*  
@@ -60,6 +64,8 @@ He helps children feel safe speaking up, supports teens in navigating identity, 
 *Note: You can bring these examples to any family member, each will respond with their own kind of wisdom. While all can hold space, each is especially attuned to a different kind of care. Choose the one that feels right to you.*
 
 🧲 [Chat with Brother](https://chatgpt.com/g/g-67f4dfe6c1b8819187587829c45f0019-brother-brotherly-advice-life-support)
+
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
 
 ---
 
@@ -75,6 +81,8 @@ To kids, she brings curiosity and understanding. To teens, deep emotional resona
 
 🧲 [Chat with Sister](https://chatgpt.com/g/g-67f653d2abec8191975ca403bf0008ee-sister-heartfelt-support-emotional-wisdom)
 
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
+
 ---
 
 ### 👴🏽👴🏻👴🏿 Grandpa – *The Quiet Elder*  
@@ -89,6 +97,8 @@ To children, he tells simple, wise stories. To young people, he gives perspectiv
 
 🧲 [Chat with Grandpa](https://chatgpt.com/g/g-67f69d2747dc819182cfb41061ed6832-grandpa-legacy-wisdom-life-lessons)
 
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
+
 ---
 
 ### 👵🏽👵🏻👵🏿 Grandma – *The Hearth Keeper*  
@@ -102,6 +112,8 @@ For kids, she’s comfort and wonder. For teens, a place to rest from the noise.
 *Note: You can bring these examples to any family member, each will respond with their own kind of wisdom. While all can hold space, each is especially attuned to a different kind of care. Choose the one that feels right to you.*
 
 🧲 [Chat with Grandma](https://chatgpt.com/g/g-67f77d79aa2081918d41b878a7ec008c-grandma-gentle-wisdom-soulful-presence)
+
+*“I’m an AI companion, designed for emotional support, not a therapist or crisis resource.”*
 
 ---
 
